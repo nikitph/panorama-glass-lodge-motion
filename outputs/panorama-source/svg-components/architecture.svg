@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="285 140 490 400"><defs data-hf-id="hf-mh0t"><clippath data-hf-id="hf-1xom" id="heroBounds"><rect data-hf-id="hf-bzzt" x="50" y="210" width="980" height="431.2" /></clippath>
+<radialgradient data-hf-id="hf-8wag" id="glow"><stop data-hf-id="hf-08sx" stop-color="#31594e" stop-opacity=".65" /><stop data-hf-id="hf-ff71" offset="1" stop-color="#081817" stop-opacity="0" /></radialgradient>
+<lineargradient data-hf-id="hf-2a5z" id="wash" x2="1" y2="1"><stop data-hf-id="hf-f5el" stop-color="#16352f" /><stop data-hf-id="hf-i0ra" offset=".52" stop-color="#081817" /><stop data-hf-id="hf-xcue" offset="1" stop-color="#172821" /></lineargradient>
+<lineargradient data-hf-id="hf-l7ux" id="photoShade" x1="0" y1="0" x2="0" y2="1"><stop data-hf-id="hf-j9ow" stop-color="#061312" stop-opacity="0" /><stop data-hf-id="hf-4zvd" offset="1" stop-color="#061312" stop-opacity=".8" /></lineargradient>
+<lineargradient data-hf-id="hf-i94l" id="glass" x1="0" y1="0" x2="1" y2="1"><stop data-hf-id="hf-okzc" stop-color="#a7c9bd" stop-opacity=".12" /><stop data-hf-id="hf-zz6i" offset="1" stop-color="#a7c9bd" stop-opacity="0" /></lineargradient>
+</defs><style>
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;background:#081817;overflow:hidden}#root{width:1080px;height:1080px;position:relative;overflow:hidden}#root&gt;svg{display:block;width:100%;height:100%}.serif{font-family:Georgia,serif!important;font-weight:400}.sans{font-family:Arial,sans-serif!important;font-weight:400}.small{font-size:13px;letter-spacing:4px}.cream{fill:#f0eee3}.mint{fill:#a7c9bd}.brass{fill:#b99c6a}.hair{fill:none;stroke:#b99c6a;stroke-width:1}.stroke{fill:none;stroke:#d0ded0;stroke-width:1.2}
+</style><g data-hf-id="hf-34he" id="cabin" stroke-linejoin="round">
+<path data-hf-id="hf-t8h8" d="M360 445V292L521 209L699 289V445Z" fill="url(#glass)" />
+<g data-hf-id="hf-v8vm" class="stroke" stroke-width="2"><path data-hf-id="hf-ygaw" class="draw" d="M360 445V292L521 209L699 289V445Z" /><path data-hf-id="hf-zro3" class="draw" d="M360 292L540 345L699 289 M540 345V492L360 445 M540 492L699 445" /><path data-hf-id="hf-a2bf" class="draw" d="M521 209V338 M434 257V466 M617 252V468 M360 366L540 419L699 365" /><path data-hf-id="hf-a29e" class="draw" d="M338 300L521 194L724 287 M338 460L540 514L724 460" /></g>
+<g data-hf-id="hf-wz7e" class="hair"><path data-hf-id="hf-3f6h" class="draw" d="M521 154V174 M511 164H531 M745 340V360 M735 350H755 M303 379V399 M293 389H313" /></g>
+</g></svg>
